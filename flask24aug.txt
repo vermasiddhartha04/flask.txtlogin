@@ -1,0 +1,17 @@
+parth-->  Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyNDQ4MjcyMCwianRpIjoiZmUwMTViMWEtMzBkNy00Njc2LWIyODItM2E3ZTY1MTJlNDA0IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJpZCI6OCwibmFtZSI6IlBhcnRoIEdhdWF0bSJ9LCJuYmYiOjE3MjQ0ODI3MjAsImNzcmYiOiIzMjMyYTg0MC0zMGUyLTQxZTktYjcxOS02Y2NmY2Y3YjM5NDEiLCJleHAiOjE3MjQ0ODM2MjB9.N8BrLtuXvKpekWnj36jbMQUwSSKaAZAKq-IfBXC2kQ8
+
+
+siddhart--> Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyNDQ4MzMyNywianRpIjoiZWMwMTc3NWEtNDNlOS00YzFmLTkxNTMtN2M3NzJiM2E0NGEzIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJpZCI6OSwibmFtZSI6IlNpZGRoYXJ0In0sIm5iZiI6MTcyNDQ4MzMyNywiY3NyZiI6IjgxMGQ4ODhiLWQzYjYtNGMyOS1iNzBlLWUwNjgyNDc0NDcxYiIsImV4cCI6MTcyNDQ4NDIyN30.sSYuleryEBZb_iwtDEZzVWVq1X4pHxe4R4RjLb3ntE0
+
+		User								Post
+Id	Name 	email		password            |        		Id		Image		user_id(FK)
+5	Parth	abc@gamil.com	1234		    |			1		Delhi		5
+8      	Siddhart siddhart	123456		    |			2		Banglore	5
+						    |			3		Chennail	5
+						    |			4		Chennail	8
+
+-----------------------------
+1) Roles (role-- ["admin","user","guest"])
+
+1) 10 user (1-admin)
+
